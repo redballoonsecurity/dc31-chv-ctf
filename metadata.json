@@ -1,0 +1,1 @@
+{"name": "dc31-chv-ctf", "project_id": "c4c401c7b334411f828d4f7f1fb4d66d", "scripts": [{"name": "solve_1.py"}], "binaries": {"ivi.bin": {"init_script": "solve_1.py", "associated_scripts": ["solve_1.py"]}}}
